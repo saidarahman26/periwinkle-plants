@@ -9,10 +9,11 @@ h4{
     color: darksalmon;
 }
 .blog{
-    
+
    text-align: center;
    
 }
 .image{
     text-align: center;
+    padding-top: 2px;
 }
