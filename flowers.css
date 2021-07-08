@@ -10,11 +10,11 @@ h4{
 }
 .blog{
     text-align: center;
-    border: 2px sienna;
+    border: 5px sienna;
     border border-radius: 1px;
     padding 4px;
     height: 15px;
-    width: 30px;
+    width: 80px;
 }
 .image{
     text-align: center;
